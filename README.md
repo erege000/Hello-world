@@ -1,2 +1,4 @@
 # Hello-world
-rimer ejercicio
+Primer ejercicio
+
+Me encanta jugar GO
